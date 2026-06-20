@@ -15,7 +15,7 @@ A full-stack e-commerce web application built with Streamlit and SQLite for **RA
 |----------|-------|
 | ![Homepage](screenshots/homepage.png) | ![About](screenshots/about.png) |
 
-| Dashboard | Product |
+| Dashboard | How To Order |
 |-----------|---------|
 | ![Dashboard](screenshots/dashboard.jpg) | ![Product](screenshots/product.jpg) |
 ---
