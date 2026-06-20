@@ -81,15 +81,16 @@ A full-stack e-commerce web application built with Streamlit and SQLite for **RA
 ```
 rawnaq-brand/
 │
-├── Homepage.py              # Main entry point & consumer storefront
-├── team5.py                 # Central database API layer
-├── init_db.py               # Database schema initialization
+├── Homepage.py             
+├── team5.py                 
+├── init_db.py
+├── docs/          
 ├── pages/
-│   ├── Admin_Dashboard.py   # Secure admin inventory management
-│   ├── Payment.py           # Checkout & stock deduction engine
-│   └── Register.py          # Login & user account management
-├── images/                  # UI assets & product photography
-├── screenshots/             # App screenshots
+│   ├── Admin_Dashboard.py  
+│   ├── Payment.py           
+│   └── Register.py         
+├── images/                  
+├── screenshots/            
 ├── requirements.txt
 └── README.md
 ```
