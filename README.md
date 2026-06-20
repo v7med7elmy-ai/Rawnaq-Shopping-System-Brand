@@ -9,21 +9,11 @@ A full-stack e-commerce web application built with Streamlit and SQLite for **RA
 [![Rawnaq Demo](https://img.shields.io/badge/Watch-Demo-red?logo=linkedin)](your-linkedin-video-link-here)
 
 ---
-
 ## 🖼️ Screenshots
 
-### 🏠 Homepage & Product Browsing
-![Homepage](screenshots/homepage.png)
-
-### 🛒 Shopping Cart
-![Cart](screenshots/cart.png)
-
-### 💳 Checkout & Payment
-![Checkout](screenshots/checkout.png)
-
-### 🔒 Admin Dashboard
-![Admin](screenshots/admin.png)
-
+| Homepage | Cart | Checkout | Admin |
+|----------|------|----------|-------|
+| ![Homepage](screenshots/homepage.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) | ![Admin](screenshots/admin.png) |
 ---
 
 ## 🚀 Features
